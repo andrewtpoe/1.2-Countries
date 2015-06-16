@@ -95,9 +95,3 @@ puts "as this script. The following printout is what has been saved in this file
 
 all_lines.each { |line| puts line }
 
-
-# Test line:
-# line = "MK|macedonia, the former yugoslav republic of"
-
-# Test arr:
-# arr = ["MK", "-", "macedonia,", "the", "former", "yugoslav", "republic", "of"]
